@@ -1,4 +1,4 @@
-# teste-qa
+# Teste Qualidade de Software
 
 ## 📋 Visão geral
 Este repositório contém testes end-to-end automatizados escritos com **Cypress** que exercitam o site de demonstração `https://www.saucedemo.com/`. Este projeto foi desenvolvido durante a aula da disciplina de **Qualidade de Software**.
@@ -86,4 +86,5 @@ npx cypress run --spec "cypress/e2e/login.cy.js"
 - Para rodar apenas um teste em execução interativa, use o filtro na UI do Test Runner.
 
 ---
+
 
